@@ -1,5 +1,5 @@
-const firstNamePerson = 10;
-// firstNamePerson = 70;
+let firstNamePerson = 10;
+firstNamePerson = 70;
 // console.log(firstNamePerson);
 // firstNamePerson="Nepal";
 //let first_name_person= "Achiever";
@@ -17,7 +17,7 @@ const firstNamePerson = 10;
 //let _new = 27;
 //fixed. _ & $ allowed
 
-//let myName = "Achiever"; 
+//let myName = "Achiever";
 //Don't do this.
 
 //let Myname = "Achiever";
@@ -29,5 +29,5 @@ const firstNamePerson = 10;
 //let name1 = "Achiever";
 //let name2 = "Bitpoint";
 
-
-// console.log(firstNamePerson);
+// console.log('Hello World');
+console.log(firstNamePerson);
