@@ -5,6 +5,17 @@
 // const age = 16;
 // age >= 14 ? console.log("You can attend in SEE examination"): console.log("You can't attend SEE examination");
 
+let age; 
+
+if(age) {
+  qualification = 'qualified';
+} else {
+  qualification = 'disqualified';
+}
+
+console.log(qualification)
+
+
 // const qualification = age>= 14 ? 'qualified' : 'disqualified';
 // console.log(qualification);
 
